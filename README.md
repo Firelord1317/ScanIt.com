@@ -1,4 +1,4 @@
-# ScanIt.com v1.0.0
+# ScanIt v1.0.0
 
 A simple, privacy-first QR code scanner app for Android.
 
@@ -17,4 +17,4 @@ You may need to enable "Install from Unknown Sources" in your device settings.
 
 ## Privacy Policy
 
-ScanIt.com does not collect, store, or transmit any data. All scanning is performed on your device.
+ScanIt does not collect, store, or transmit any data. All scanning is performed on your device.
